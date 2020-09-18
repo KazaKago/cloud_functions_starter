@@ -1,5 +1,5 @@
 # cloud_functions_starter
-"Cloud Functions" Starter Kit.
+"Cloud Functions" Starter Kit with Kotlin.
 
 ## Run Locally
 
