@@ -4,14 +4,14 @@
 ## Run Locally
 
 ```sh
-$ ./gradlew runFunction -PrunFunction.target=com.kazakago.cloud_functions_starter.Application
+$ ./gradlew runFunction -Prun.functionTarget=com.kazakago.cloud_functions_starter.Application
 $ curl http://localhost:8080/
 ```
 
 ## Deploy Cloud Functions
 
 1. Install gcloud CLI.
-    - `$ brew cask install google-cloud-sdk`
+    - `$ brew install --cask google-cloud-sdk`
 1. Login account.
     - `$ gcloud auth login`
 
