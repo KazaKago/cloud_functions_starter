@@ -1,1 +1,1 @@
-rootProject.name = "cloud_function_starter"
+rootProject.name = "cloud_functions_starter"
